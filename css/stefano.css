@@ -9,12 +9,7 @@ body{
  h2, h3, h4, h5, h6, b, a:hover{
  	color: rgba(52, 152, 219,0.9)
  }
-.normal td{
-	font-size: 100%;
-}
- td{
- 	font-size: 80%;
- }
+
 
 .copyright {
 	font-size: 50%;
@@ -22,12 +17,6 @@ body{
 }
 
 
-
- 
-small{
-	font-size : 75%;
-	margin-top: -1em;
-}
 
 p{
 	  margin: 0 0 1em 0;
