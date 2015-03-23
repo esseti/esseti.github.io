@@ -1,0 +1,49 @@
+body{
+	color:#34495e;
+}
+
+ h1, h2, h3, h4, h5, h6, b, a:hover{
+ 	color: #2980b9
+ }
+
+ h2, h3, h4, h5, h6, b, a:hover{
+ 	color: rgba(52, 152, 219,0.9)
+ }
+.normal td{
+	font-size: 100%;
+}
+ td{
+ 	font-size: 80%;
+ }
+
+.copyright {
+	font-size: 50%;
+	text-align: center;
+}
+
+
+
+ 
+small{
+	font-size : 75%;
+	margin-top: -1em;
+}
+
+p{
+	  margin: 0 0 1em 0;
+}
+
+a{
+	color: #3498db;
+}
+
+
+ #header h1, #header a, #footer .icons a:hover{
+ 	color:#ffffff;
+ }
+ 
+ #footer  .icons a, #header a:hover{
+	color:rgba(255,255,255,0.7);
+ }
+
+
