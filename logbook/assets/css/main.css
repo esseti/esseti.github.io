@@ -2697,7 +2697,20 @@
 		}
 
 /* Main */
+	.icons_ul{
+		text-align: left
+	}
+	.icons_ul li{
+		padding: 15px 0;
 
+	}
+	.icons_ul span.text{
+		padding-left: 20px;
+		text-align: justify;
+	}
+	.section-justify p{
+		text-align: justify;
+	}
 	.main {
 		padding: 6em 0 4em 0 ;
 	}
@@ -2707,11 +2720,24 @@
 		}
 
 		.main.style2 {
-			background-color: #333;
+			background-color: #4fa49a;
 			color: rgba(255, 255, 255, 0.75);
-			background-attachment: fixed,							fixed;
-			background-image: url("images/overlay1.png"), url("../../images/header.jpg");
-			background-size: auto,							cover;
+			background-attachment: fixed,fixed,fixed;
+			background-image: linear-gradient(45deg, #34495e 20%,#2c3e50 70%);
+			background-size: auto,cover,cover;
+			overflow: hidden;
+			position: relative;
+			text-align: center;
+		}
+		.main.style3 {
+			background-color: #4fa49a;
+			color: rgba(255, 255, 255, 0.75);
+			background-attachment: fixed,fixed,fixed;
+			background-image: linear-gradient(45deg,#1abc9c 10%, #3498db 40%, #9b59b6 90%);
+			background-size: auto,cover,cover;
+			overflow: hidden;
+			position: relative;
+			text-align: center;
 		}
 
 			.main.style2 a {
@@ -2801,7 +2827,7 @@
 		background-color: #4686a0;
 		color: rgba(255, 255, 255, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay3.svg"), linear-gradient(45deg, #9dc66b 5%, #4fa49a 30%, #4361c2);
+		background-image:  linear-gradient(45deg,#1abc9c 30%, #4fa49a 70%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		overflow: hidden;
@@ -2901,8 +2927,19 @@
 			margin: 2.5em 0 0 0;
 			position: relative;
 		}
+		#header .actions {
+			margin: 2.5em 0 0 0;
+			position: relative;
+		}
+		.fill{
+			background-color: white;
 
-			#header .actions:after {
+		}
+		.fill a{
+			color: #4fa49a;
+		}
+
+			/*#header .actions:after {
 				background: #ffffff;
 				content: '';
 				height: 100vh;
@@ -2910,7 +2947,7 @@
 				position: absolute;
 				top: 100%;
 				width: 1px;
-			}
+			}*/
 
 		#header .inner {
 			-moz-transition: -moz-transform 1.5s ease, opacity 2s ease;
@@ -2951,7 +2988,7 @@
 			-webkit-transition: opacity 1s ease;
 			-ms-transition: opacity 1s ease;
 			transition: opacity 1s ease;
-			background-image: linear-gradient(45deg, #4fa49a, #4361c2);
+			background-image: linear-gradient(45deg, #4fa49a 15%, #4361c2 75%);
 			content: '';
 			height: 100%;
 			left: 0;
@@ -2985,10 +3022,10 @@
 
 	#footer {
 		padding: 6em 0 6em 0 ;
-		background-color: #4686a0;
-		color: rgba(255, 255, 255, 0.75);
+		background-color: #ecf0f1;
+		color: rgba(0, 0, 0, 0.75);
 		background-attachment: fixed,							fixed,							fixed;
-		background-image: url("images/overlay2.png"), url("images/overlay4.svg"), linear-gradient(45deg, #4361c2, #4fa49a 50%, #9dc66b 95%);
+		background-image: linear-gradient(45deg, #ecf0f1 20%, #bdc3c7 70%);
 		background-position: top left,						center center,					center center;
 		background-size: auto,							cover,							cover;
 		text-align: center;
