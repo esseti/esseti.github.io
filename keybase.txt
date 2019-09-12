@@ -4,9 +4,9 @@ https://keybase.io/esseti
 
 I hereby claim:
 
-  * I am an admin of https://stefanotranquillini.com
+  * I am an admin of https://www.stefanotranquillini.me
   * I am esseti (https://keybase.io/esseti) on keybase.
-  * I have a public key with fingerprint 2E07 7CA2 8C1C B568 E972  94CF 0A29 B164 8EE1 DCCD
+  * I have a public key ASDrfVqeGk3yxiWhg68hkYNvsadIwcijWdlPn5S6hUjiaAo
 
 To do so, I am signing this object:
 
@@ -14,73 +14,41 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0101407bae3300c0990b2c842578b670258ed050ee6f2a3eccf6c423a0b235c31add0a",
-      "fingerprint": "2e077ca28c1cb568e97294cf0a29b1648ee1dccd",
       "host": "keybase.io",
-      "key_id": "0a29b1648ee1dccd",
-      "kid": "0101d401581d27c138710d0ce7e23b9c6c9eddbbe64daaea59a6cac126c07412fedb0a",
+      "kid": "0120eb7d5a9e1a4df2c625a183af2191836fb1a748c1c8a359d94f9f94ba8548e2680a",
       "uid": "c763cca74640b563ff75689a59c30c19",
       "username": "esseti"
     },
     "merkle_root": {
-      "ctime": 1559052948,
-      "hash_meta": "18c5c60559f1dffedd6b83701cd0ef00b9087ac0098335269a43c87ed381fafd",
-      "seqno": 5461620
-    },
-    "revoke": {
-      "sig_ids": [
-        "3efffd2a97026ad5ca8d0feb1858fa1b71dc2ad34463444ccf107cc002d2fb1f0f"
-      ]
+      "ctime": 1568295655,
+      "hash": "7a234d978f60b109fac564d8cc583a0517c790e250278e9733722e01b12ed584940249692fe950a2f663d28345b981851f61cc34c4d808f98f455c9adac0bea1",
+      "hash_meta": "3ac986bfbdfef50cde367f9e2c8a02b1fd0087b8bddb164745a3e45039fd2750",
+      "seqno": 6972617
     },
     "service": {
-      "hostname": "stefanotranquillini.com",
+      "entropy": "I6Psu0cjdjP7EBQlS93BNXKh",
+      "hostname": "www.stefanotranquillini.me",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 1
+    "version": 2
   },
-  "ctime": 1559052948,
-  "expire_in": 157680000,
-  "prev": "cc479a5acfa02fd63ecfd1a74b8f14059bb6e4e718d578f4cffaa73ebaf635cc",
-  "seqno": 24,
+  "client": {
+    "name": "keybase.io go client",
+    "version": "4.4.1"
+  },
+  "ctime": 1568295668,
+  "expire_in": 504576000,
+  "prev": "50d7aaad191bb672e69210e2b31eeff006819a13545705a8bac7f3f9c03f516b",
+  "seqno": 32,
   "tag": "signature"
 }
 
 which yields the signature:
 
------BEGIN PGP MESSAGE-----
-
-owFtU31MVWUcvihGggwmqfhFcYaEC+k93+fcZQ4/SiWYM2cW6u097wf3jMs913MO
-ICqp6WpMMBxMU/JjGel0feFEYm7hrqjIKKfm5hTTNJCy5shpiljvIZ1/1NnOzs45
-z/P7Pb/n+b21icN98THxU7/Bm69d7orp7DN8S3+fuWM1Z1i4gvOv5orJ0IOEMHHc
-QLGJOT8HeMBLQDUgEUUAENB1YAhIkwRZ1QxFBYKsEQxkQIhCBSgShKiCJEGEDCbK
-SOQhxgBy2Rw1w0XEjthm2GVlBQJUFUFBQzwyZEUjuiroEqIACrrBK5JGCI8RwowY
-tByPwcQZ0CE5psW+sZfAv/L+i3+qG0uAlzUeCyriRU3lAQaIqEQQDR0pSCcYGwZR
-JAwhgbIOFQQRLygIqBIvUIKNId2lQ+WQqogIQVVSJMD0ipSqTLXOaEgEiNc9oEPs
-MCwhDE0ch7gmV5nNlRC7OEQCtmW5nrXINT0AL8s6kNnAGhsPOsFACXEh4/EakpEC
-2F/KY8okYMXQRBXwCANCATB0oKkQAaBroigLig4lEWkqwaLGU0i96R2yImxxfllS
-eEUATIFNyqxi4jV3zCJmmsP5CzmRUEpx2zoB6ixCBWIZQQ0DSgxekzUKeUNldgoQ
-i5KksFtisfJARay1gAVq8BRQblml184uM9FQeS+nx/M7LqEwbLk2DK8oNUMhM2zm
-IKuEyYvYlmshK8RAQdeNOH7PJLci4rHKiRF4XC9gmGHMFoYxyojtmFaYmcaQ/+Mf
-WRkxbRIwPYSsKhpgl9eHlHmxIUllIUFEIRAoVth+UsyzGA2NsrWWdcNQiERUXsNs
-nylbQAqhKhIDUoVtL3pqqCAxnbDIG84sCkO31CZcZXzVMDHWFxPvmzw2PTYnbs2n
-1ZMOB/vs+h+eHLIRw7wT5osfmfzkS/XNpEfTxoudY8rjkjrSPmomy8/m1fxctLS1
-Y6e55nbf9w+/PVZ162R6RN+Vsv7EjwdnznuO1PcULKTqb4vOHE1IXJd34YXGuNT9
-Hf4/u99om7i1Fa1qTak5XDl++Jn7yeOuj0gZc2pY++AfE5LvpPS2ODHNG3fPyM/b
-NiszbdVAbTjfGui5E7w9qpNHy/aO1aJpekL7vSszB8/uSYYbezrpQEVXXqBgx5IR
-SxPovtn71h5ZPLrvoNkYbZvQdG55pP/0zvp3GgItH1cev/HFkr576UfrussbCw8d
-K45dUP3JrdC22t6GxuYWf65vLZ3jL3hxVkvhS1O3fvdgwoKRkaw4+PCt7MWn06qj
-p5p3PZv2Xmzm5abexdyM4tPtdx7lqtGTmQ1jlvU3Xq2JRvecWNkkPSh/pe1qZ9bk
-ea2Xrk/rKunfAvP9TXdfHjibFNt3NebCvhPruflfDjbNXnnlwxvbr3xQZx6aUpgb
-vpjdnQEytpeuPfZq19d3p+xYE5fflfWw4TzZ0PtZ7KTU2W+X7u/PqLKDl9dVDPya
-VNFzf9O16Ru664+M375RrN3TP2lsw9z65DnOgZxo8G7VzvfPxeX+dHP+qAN/j9Pf
-vHdket1rf02p3zS/+trBTc9YOcacVJj1S4Ew8d3AwvOXSnI/tztmZaUupF+Nbm9K
-WJT9/O7j+ML99ItbE5Nr945esQVk+jLEuUWDdaHXE/8B
-=XovK
------END PGP MESSAGE-----
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg631anhpN8sYloYOvIZGDb7GnSMHIo1nZT5+UuoVI4mgKp3BheWxvYWTESpcCIMQgUNeqrRkbtnLmkhDisx7v8AaBmhNUVwWousfz+cA/UWvEIKkNe8MTMRPq897oguG2Yb/WcnHeN09qHGjr7tjxPMGXAgHCo3NpZ8RAkBE4BB3f6J0Y4ICoCvCL+eQgNtZJWImOFNqrpBHBHZKCrqr9IL8CoCQU9K9QOXw8EQqDFT2VmzguawcWtsSeC6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIMCgoALT3gSisLvzCehsINEAKEzob79sualaSivyxxwQo3RhZ80CAqd2ZXJzaW9uAQ==
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
 
 View my publicly-auditable identity here: https://keybase.io/esseti
-
-==================================================================
