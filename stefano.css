@@ -1,0 +1,41 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+    
+}
+:is(h1, h2, h3, h4, h5, h6){
+    font-weight: 700;
+    /* font-family: 'Roboto Slab', serif; */
+}
+p{}
+
+section{
+    padding: 20px 0;
+}
+
+.tab-pane{
+    padding: 20px 10px;
+    border: 1px solid #dee2e6;
+    border-bottom-right-radius: .25rem;
+    border-bottom-left-radius: .25rem;
+}
+
+.progress{
+    height: 30px;
+    margin: 5px 0;
+   
+}
+.progress-bar{
+    text-align: left;
+    padding-left: 10px;
+}
+a{
+    color: #212529;
+    text-decoration: underline;
+    font-style: italic;
+}
+
+a:hover{
+    color: #fff;
+    background: #343a40;
+    text-decoration: underline;
+}
