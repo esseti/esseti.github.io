@@ -10,13 +10,23 @@ body{
 
 section{
     padding: 20px 0;
+    
 }
-
+.fullscreen{
+    width: 100%;
+    min-height: 100vh;
+    position: relative;
+    display: flex;
+    align-items: center;
+}
 .tab-pane{
     padding: 20px 10px;
     border: 1px solid #dee2e6;
     border-bottom-right-radius: .25rem;
     border-bottom-left-radius: .25rem;
+}
+.div1{
+  display: flex;
 }
 
 .progress{
